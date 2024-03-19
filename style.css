@@ -1,0 +1,23 @@
+button {
+  margin-top: 10px;
+}
+
+img {
+  width: 100%;
+}
+
+h4 {
+  text-align: center;
+}
+
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.person {
+  padding: 15px;
+  border: 1px solid black;
+  margin-bottom: 15px;
+}
